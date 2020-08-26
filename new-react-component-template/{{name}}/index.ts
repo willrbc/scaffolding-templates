@@ -1,3 +1,3 @@
-export { default as {{name}}Container } from './{{name}}Container';
+export { {{name}}Container } from './{{name}}Container';
 
-export {{{name}}} from './{{name}}'
+export { {{name}} } from './{{name}}'
